@@ -23,3 +23,19 @@ Fill me in please! Don't forget code examples:
     3
 
 
+
+```python
+hello("Rahul")
+```
+
+
+    ---------------------------------------------------------------------------
+
+    NameError                                 Traceback (most recent call last)
+
+    <ipython-input-15-241cb1e151bf> in <module>()
+    ----> 1 hello("Rahul")
+    
+
+    NameError: name 'hello' is not defined
+
