@@ -7,7 +7,7 @@ tvec: $(SRC)
 	touch tvec
 
 docs_serve: docs
-	cd docs && bundle exec jekyll serve
+	cd docs && bundle exec jekyll serve --host 0.0.0.0
 
 docs: $(SRC)
 	nbdev_build_docs

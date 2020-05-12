@@ -1,13 +1,13 @@
 
-# Project name here
-> Summary description here.
+# Time2vec encoding 
+> Time to vector encoding implementation
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install tvec`
 
 ## How to use
 

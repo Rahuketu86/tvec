@@ -1,6 +1,7 @@
 {
   "tvec": {
     "Overview": "/",
-    "module name here": "/core"
+    "core": "/core",
+    "Time2vec encoding ": "/Time2vec_Encoding"
   }
 }

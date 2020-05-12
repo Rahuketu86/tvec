@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: core
       url: /core
+    - output: web,pdf
+      title: 'Time2vec encoding '
+      url: /Time2vec_Encoding
     output: web
     title: tvec
   output: web
